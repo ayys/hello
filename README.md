@@ -1,6 +1,15 @@
 # hello
 Hello World in wasm
 
+# running
+```bash
+wasmer run hello-world
+
+# or run your local version
+# cargo wasix build --release
+wasmer run .
+```
+
 # Building
 
 ```bash
