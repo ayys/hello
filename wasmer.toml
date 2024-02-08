@@ -1,6 +1,6 @@
 [package]
 name = 'wasmer/hello-world'
-version = '0.1.0'
+version = '0.1.3'
 description = 'Description for package hello'
 readme = 'README.md'
 
