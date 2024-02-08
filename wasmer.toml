@@ -1,6 +1,6 @@
 [package]
 name = 'wasmer/hello-world'
-version = '0.1.7'
+version = '0.2.2'
 description = 'Hello world package for wasmer; test your wasmer installation'
 readme = 'README.md'
 repository = "https://github.com/ayys/hello"

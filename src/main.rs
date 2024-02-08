@@ -6,7 +6,7 @@ fn main() {
 This message shows that your installation appears to be working correctly.
 
 To try something more fun, you can run cowsay with:
- $ echo Moo | wasmer run cowsay
+ $ wasmer run cowsay \"I am a cow\"
 
 Publish packages, run apps, and more with a free Wasmer account:
  https://wasmer.io/
