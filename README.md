@@ -1,4 +1,4 @@
-# hello
+# hello-world
 Hello World in wasm
 
 # running
