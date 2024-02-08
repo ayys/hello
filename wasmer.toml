@@ -1,8 +1,10 @@
 [package]
 name = 'wasmer/hello-world'
-version = '0.1.5'
-description = 'Description for package hello'
+version = '0.1.7'
+description = 'Hello world package for wasmer; test your wasmer installation'
 readme = 'README.md'
+repository = "https://github.com/ayys/hello"
+license = "MIT"
 
 # See more keys and definitions at https://docs.wasmer.io/registry/manifest
 
