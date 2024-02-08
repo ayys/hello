@@ -1,6 +1,6 @@
 fn main() {
     // read message.txt into the program
-    let message = "Hello from Wasmer ❤️!
+    let message = "Hello from Wasmer ❤️
 ===
 
 This message shows that your installation appears to be working correctly.
